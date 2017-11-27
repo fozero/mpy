@@ -1,0 +1,25 @@
+
+
+豆瓣电影top250
+抓取豆瓣电影top250电影信息  评分  评论数据
+https://movie.douban.com/top250
+https://movie.douban.com/top250?start=25&filter=
+start是从第几条开始查询(每次返回25条数据)
+
+
+
+
+
+https://movie.douban.com/subject/1292000/
+https://movie.douban.com/subject/1293182/
+https://movie.douban.com/subject/3319755/
+https://movie.douban.com/subject/1291552/
+https://movie.douban.com/subject/1929463/
+https://movie.douban.com/subject/1291583/
+https://movie.douban.com/subject/1291858/
+https://movie.douban.com/subject/1851857/
+
+
+
+
+
